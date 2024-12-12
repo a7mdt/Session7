@@ -31,7 +31,7 @@ int main() {
     cout << sizeof(names2) << endl;
     cout << sizeof(names2[0]) << endl;
     cout << sizeof(names2[1]) << endl;
-    cout << sizeof(names2[2]) << endl;
+    cout << sizeof(names2[2]) << endl; 
 
     // -------------------------------------------------------
 
@@ -82,12 +82,6 @@ int main() {
     //}
 
     // -------------------------------------------------------
-
-    /*
-        2-  With Arrays and Loops Create a program that stores the ages of the
-            attendees (save them in array) then with loop get all these ages from users
-                Then, Output the Summation & Average of the ages
-    */
-
+    
     return 0;
 }
